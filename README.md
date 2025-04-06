@@ -14,14 +14,13 @@
 
 This capstone project is a full-fledged **MLOps pipeline** built for robust Machine Learning lifecycle management—from data versioning, model training, and experiment tracking to deployment using **Docker & Kubernetes on AWS EKS**, with **CI/CD via GitHub Actions**, and **real-time monitoring via Prometheus & Grafana**.
 
-The project repository is hosted on GitHub: [MLOps-Capstone-Project](https://github.com/udaygupta8899/MLOps-Capstone-Project)
-
 ---
 
 ## 🗂 Project Structure
 
 Below is an overview of the project structure that organizes the code, pipelines, and deployment configurations:
 
+```plaintext
 MLOps-Capstone-Project/
 ├── .github/
 │   └── workflows/
@@ -45,7 +44,7 @@ MLOps-Capstone-Project/
 ├── tests/                    # Test suites for CI and model validation
 ├── scripts/                  # Helper scripts for deployment and CI tasks
 └── README.md                 # This documentation file
-
+```
 
 This structure ensures a clear separation of concerns—from model development to deployment and monitoring.
 
@@ -275,8 +274,10 @@ These stacks are managed as a unit to simplify resource management.
 
 ## 🧠 Final Thoughts
 
-This project demonstrates end-to-end **MLOps** by combining industry-standard tools and workflows for reproducible ML development, deployment, and monitoring. Whether you’re refining data science models or scaling to enterprise-grade infrastructures, this setup offers a comprehensive blueprint for success.
+This project demonstrates end-to-end **MLOps excellence** by combining industry-standard tools and workflows for reproducible ML development, deployment, and monitoring. Whether you’re refining data science models or scaling to enterprise-grade infrastructures, this setup offers a comprehensive blueprint for success.
 
 ---
 
-<h3 align="center">⚡ Built with ❤️</h3>
+<h3 align="center">⚡ Built with ❤️ by Uday</h3>
+
+---
