@@ -280,6 +280,3 @@ This project demonstrates end-to-end **MLOps** by combining industry-standard to
 ---
 
 <h3 align="center">⚡ Built with ❤️</h3>
-```
-
----
